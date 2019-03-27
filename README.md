@@ -110,6 +110,6 @@ Le site doit également être conçu en version mobile.
 - groupe 6 : Adrien - Mathieu - Maxime H
 - groupe 7 : Thomas - Raph
 
-# Exemple
+## Exemple :
 
   ![interface](exemplemaquette.JPG)
