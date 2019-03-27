@@ -109,3 +109,7 @@ Le site doit également être conçu en version mobile.
 - groupe 5 : Justine - Axel - Meroine
 - groupe 6 : Adrien - Mathieu - Maxime H
 - groupe 7 : Thomas - Raph
+
+# Exemple
+
+  ![interface](exemplemaquette.JPG)
