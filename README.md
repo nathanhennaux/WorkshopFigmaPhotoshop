@@ -39,7 +39,9 @@ Le bouton Sharing vous permet de partager le design et vos différents prototype
 
 ## Commencer un Projet
 Après avoir créé un compte chez Figma , le tableau de bord suivant vous sera présenté avec tous vos projets:
+
  ![interface](figmaboard.JPG)
+ 
 Cliquez sur la petit icône + dans le coin supérieur gauche de la barre d'outils supérieure pour créer un nouveau projet.
 
  ![interface](figmanew.JPG)
