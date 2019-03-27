@@ -34,7 +34,7 @@ Celui-ci n’est pas très compliqué, il sert tout simplement à créer des zon
 L'icône de discussion vous permet de laisser des messages spécifiques à un lieu pour communiquer des idées et / ou fournir des commentaires sur le projet sélectionné. Les personnes pouvant voir/répondre aux commentaires sont ceux qui ont accès au projet.
 
 ## Sharing
-Le bouton Sharing vous permet de partager le design et vos différents prototypes avec d'autres personnes.
+Le bouton Sharing vous permet de partager vos différents projets/prototypes avec d'autres personnes.
 
 
 ## Commencer un Projet
@@ -88,6 +88,8 @@ Cela vous fournira un fichier SVG entièrement éditable:
 Créer des éléments cliquables comme par exemple les boutons d'un menu pour passer d'une page à une autre via l'outil de prototypage de Figma. Cela permet de créer des flux interactifs qui stimulent la manière dont un utilisateur peut interagir avec vos conceptions.
 
   ![interface](prototype.JPG)
+  
+  Pour plus d'informations concernant le prototypage : https://help.figma.com/article/199-getting-started-with-prototyping.
 
 # Travail de groupe :
 Conception d'une maquette d'un site e-commerce sur un thème au choix.
