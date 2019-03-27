@@ -5,7 +5,7 @@ FIGMA : WORKSHOP
 Interface Figma :
 L’interface de Figma est assez simple et intuitive. Nous allons vous expliquer toutes ces fonctionnalités.
  
- ![interface](board.jpeg)
+ ![interface](board.jpg)
 
 Vous l’avez surement pu, le constater. Nous commençons par un bouton « Hamburger » Reprenant toutes les différentes fonctionnalités que Figma nous permet de réaliser, telle que la création des différents projets qui sont automatiquement enregistré. Il y a également la création/gestion des formes, la mise en forme des textes etc…
  
