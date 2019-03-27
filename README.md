@@ -9,10 +9,13 @@ L’interface de Figma est assez simple et intuitive. Nous allons vous expliquer
 
 Vous l’avez surement pu, le constater. Nous commençons par un bouton « Hamburger » Reprenant toutes les différentes fonctionnalités que Figma nous permet de réaliser, telle que la création des différents projets qui sont automatiquement enregistré. Il y a également la création/gestion des formes, la mise en forme des textes etc…
  
+  ![interface](menuboard.JPG)
+  
 Recherche
 
 La fonction de recherche Figma se trouve sous l’icône du menu et constitue un excellent moyen de rechercher diverses fonctions. Recherchez par nom ou parcourez par section générale (par exemple, Fichier, Edition, Affichage, etc.). S'il existe un raccourci clavier pour la fonction que vous essayez d'exécuter, il sera également répertorié ici. 
 
+![interface](outils.JPG)
   
 Sélection
 
@@ -34,24 +37,27 @@ Le bouton Sharing vous permet de partager le design et vos différents prototype
 
 Commencer un Projet
 Après avoir créé un compte chez Figma , le tableau de bord suivant vous sera présenté avec tous vos projets:
- 
+ ![interface](figmaboard.JPG)
 Cliquez sur la petit icône + dans le coin supérieur gauche de la barre d'outils supérieure pour créer un nouveau projet.
 
- 
+ ![interface](figmanew.JPG)
 
 Etablir un Artboard
 Un tableau de travail est l'endroit où vous placerez votre design. Vous devez sélectionner l'outil Artboard dans la barre d'outils ( comme décrit ci-dessus ) et vous obtiendrez une liste de préréglages d'artboard, comme indiqué ci-dessous:
  
+ ![interface](figmaartboard.JPG)
+ 
 Figma vous fournit de nombreux préréglages. Dans notre cas, nous allons simplement choisir le  préréglage iPhone X. Cela vous donnera une nouvelle planche graphique sur la toile, à partir de laquelle vous pourrez commencer à concevoir.
 Ensuite, utilisez l'outil Rectangle pour dessiner un rectangle de taille similaire, comme indiqué ci-dessous, puis dans le panneau des propriétés à droite, donnez-lui une couleur bleue similaire pour l'arrière-plan:
 
- 
+ ![interface](figmaforme.JPG)
 
 Modification des formes dans Figma
 Si vous double-cliquez sur cette nouvelle forme, vous serez amené en mode édition, où vous aurez accès aux points d'ancrage. Vous pouvez déplacer les points d'ancrage, ce qui vous permettra de modifier encore plus la forme.
 
 Vous pouvez également sélectionner l'outil Plume dans ce mode d'édition et ajouter un point d'ancrage à une forme existante:
 
+![interface](figmamodifforme.JPG)
  
 Vous pouvez même utiliser l' outil de courbure  pour créer des courbes de Bézier sur les points d'ancrage, comme indiqué ci-dessus.
 
@@ -60,24 +66,24 @@ Avec notre forme actuelle sélectionnée, appuyez simplement sur CTRL-D pour dup
 
 Sélectionnez l'original (le calque situé sous le calque dupliqué) et déplacez-le vers le haut à l'aide de la flèche du clavier, puis modifiez le remplissage en bleu plus clair. De plus, double-cliquez dessus pour accéder aux points d'ancrage et déplacez légèrement le point d'ancrage droit vers le haut et le point d'ancrage très gauche vers le bas, là où vous ne le voyez plus:
 
- 
+ ![interface](figmadupliquer.JPG)
 
 Sélections d'union, soustraction, intersection et exclusion
 Lorsque vous sélectionnez plus d'un objet à la fois, vous pouvez utiliser ces outils pour manipuler les objets en fonction de l'endroit où ils se chevauchent. Par exemple, si vous souhaitez soustraire un objet d'un autre objet, vous devez sélectionner les deux objets contenant Maj ou CTRL, puis sélectionner Soustraire la sélection  dans le menu déroulant supérieur de la barre d'outils:
 
- 
+  ![interface](figmaselection.JPG)
 
 Importer des SVG dans Figma
 Une fonctionnalité pratique est la possibilité de simplement glisser-déposer des fichiers SVG de votre bureau ou de vos dossiers sur votre toile à l'intérieur de Figma.
 Cela vous fournira un fichier SVG entièrement éditable:
 
- 
+  ![interface](figmasvg.JPG)
 
 Les Prototypes
 
 Créer des éléments cliquables comme par exemple les boutons d'un menu pour passer d'une page à une autre via l'outil de prototypage de Figma. Cela permet de créer des flux interactifs qui stimulent la manière dont un utilisateur peut interagir avec vos conceptions.
 
- 
+  ![interface](prototype.JPG)
 
 Travail de groupe :
 Conception d'une maquette d'un site e-commerce sur un thème au choix.
