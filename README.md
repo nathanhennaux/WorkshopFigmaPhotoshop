@@ -102,13 +102,13 @@ Les pages doivent être reliées entre elles à l'aide de boutons cliquables. (u
 Le site doit également être conçu en version mobile.
 
 ## Groupes :
-- groupe 1 : Ruben - Gary - Edouard
+- groupe 1 : Ruben - Gary - Thomas
 - groupe 2 : Caro - Bapt - Jeremy
 - groupe 3 : Joe - Maxime C - Valentin
-- groupe 4 : David - Dylan - Hadrien
+- groupe 4 : Raph - Dylan - Hadrien
 - groupe 5 : Justine - Axel - Meroine
 - groupe 6 : Adrien - Mathieu - Maxime H
-- groupe 7 : Thomas - Raph
+
 
 ## Exemple :
 
