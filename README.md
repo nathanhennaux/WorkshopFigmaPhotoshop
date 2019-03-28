@@ -94,9 +94,10 @@ Créer des éléments cliquables comme par exemple les boutons d'un menu pour pa
 # Travail de groupe :
 Conception d'une maquette d'un site e-commerce sur un thème au choix.
 
-La maquette doit contenir 3 pages :
+La maquette doit contenir 4 pages :
 - page d'accueil
 - page produits
+- page description du produit
 -	page contact
 Les pages doivent être reliées entre elles à l'aide de boutons cliquables. (utilisez l'outil de prototypage...)
 Le site doit également être conçu en version mobile.
